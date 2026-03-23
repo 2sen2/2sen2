@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎀 About me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> My name is Seyeon!</li>I'm majoring in Computer Software Engineering at Dongyang Mirae Univ. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> My name is Seyeon!<br></ㅠㄱ></li>I'm majoring in Computer Software Engineering at Dongyang Mirae Univ. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 STACKS </h2> <br> 
