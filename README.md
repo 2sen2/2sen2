@@ -6,7 +6,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> My name is Seyeon!<br></ㅠㄱ></li>I'm majoring in Computer Software Engineering at Dongyang Mirae Univ. </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 STACKS </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
@@ -28,8 +28,9 @@
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=2sen2&bg_color=180,f8f2e8,00000000&title_color=8d7c68&text_color=8d7c68"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2sen2&layout=compact&bg_color=180,f8f2e8,00000000&title_color=8d7c68&text_color=8d7c68"
-           /> </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=leeseny09&bg_color=180,f8f2e8,00000000&title_color=8d7c68&text_color=8d7c68"/> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?                                       username=leeseny09&layout=compact&bg_color=180,f8f2e8,00000000&title_color=8d7c68&text_color=8d7c68"/> 
+    </div> 
     </div>
     
