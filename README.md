@@ -104,6 +104,6 @@
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
   <div style="text-align: left;">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=leeseny09&show_icons=true" width="475" align="center" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=leeseny09&show_icons=true&v=1" width="475" align="center" />
   </div>
 </div>
